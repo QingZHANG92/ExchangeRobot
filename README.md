@@ -18,5 +18,6 @@ Exemple :
   (Combien d'euros équale à 100 dollars)
   
 Une fois que le twit est détecté, le bot enverra la réponse comme : 100 USD in EUR: 90.678273
+
 Si le twit n'est pas bien formé, le bot enverra la réponse d'instruction : 
   Tips : try something like "-100:EUR TO USD-" that means 100 euros in how much dollars. Attention: All in upper case
